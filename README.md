@@ -26,18 +26,18 @@ CSV → Python (Ingestion) → SQL Server → Analysis → Insights
 * Automated CSV-to-SQL pipeline using **Pandas + SQLAlchemy**
 * Dynamic table creation
 
-📄 `Airlines_Ingestion.py` 
+ `Airlines_Ingestion.py` 
 
 ---
 
-## 🗄️ Data & Exploration
+##  Data & Exploration
 
 * Multiple tables: flights, tickets, bookings, seats, etc. 
 * Performed schema checks & missing value analysis
 
 ---
 
-## 📊 Key Analysis
+##  Key Analysis
 
 * **Fleet Analysis**: Identified aircraft with >100 seats
 * **Trends**: Ticket bookings and revenue increase together
@@ -49,12 +49,12 @@ CSV → Python (Ingestion) → SQL Server → Analysis → Insights
 
 ---
 
-## 📈 Occupancy & Impact
+##  Occupancy & Impact
 
 * Calculated occupancy rate per aircraft
 * Simulated **10% increase in occupancy**
 
-👉 Result: Significant increase in annual revenue
+ Result: Significant increase in annual revenue
 
 ---
 
