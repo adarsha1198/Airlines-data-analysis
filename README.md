@@ -15,9 +15,9 @@ Goal: **Increase occupancy rate to maximize revenue per flight**.
 
 ##  Workflow
 
-```text
+
 CSV → Python (Ingestion) → SQL Server → Analysis → Insights
-```
+
 
 ---
 
