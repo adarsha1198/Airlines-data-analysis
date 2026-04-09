@@ -1,4 +1,4 @@
-[open airlines dataset](https://drive.google.com/drive/folders/1FFaK7DMjP8LuFiDkcQwD4RLWWTbkz8kA?usp=sharing)
+[Open Airlines Dataset](https://drive.google.com/drive/folders/1FFaK7DMjP8LuFiDkcQwD4RLWWTbkz8kA?usp=sharing)
 #  Airline Data Analysis & Occupancy Optimization
 
 ##  Overview
