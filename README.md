@@ -1,4 +1,4 @@
-[Open Airlines Dataset and  Power BI Dashboard](https://drive.google.com/drive/folders/1FFaK7DMjP8LuFiDkcQwD4RLWWTbkz8kA?usp=sharing)
+[Access raw data used in this project and  Power BI Dashboard](https://drive.google.com/drive/folders/1FFaK7DMjP8LuFiDkcQwD4RLWWTbkz8kA?usp=sharing)
 #  Airline Data Analysis & Occupancy Optimization
 
 ##  Overview
