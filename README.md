@@ -1,4 +1,4 @@
-[Access raw data used in this project and  Power BI Dashboard](https://drive.google.com/drive/folders/1FFaK7DMjP8LuFiDkcQwD4RLWWTbkz8kA?usp=sharing)
+Note: Dataset and BI dashboard is hosted externally due to size constraints. [Access raw data used in this project and  Power BI Dashboard](https://drive.google.com/drive/folders/1FFaK7DMjP8LuFiDkcQwD4RLWWTbkz8kA?usp=sharing)
 #  Airline Data Analysis & Occupancy Optimization
 
 ##  Overview
